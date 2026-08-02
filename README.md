@@ -1,6 +1,6 @@
 # Hi, I'm Mohit Hingase 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+%26+Data+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Scientist;MCA+Student+at+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mohit+Hingase;Java+Developer;Artificial+Intelligence+Enthusiast;Aspiring+Full+Stack+Developer;Python+%26+Data+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Scientist;MCA+Student+at+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
 
 🎓 MCA Student (2025–27) at MIT World Peace University, Pune | BCS Graduate
 📍 Pune, Maharashtra, India
@@ -38,10 +38,15 @@
 
 ## 📜 Certifications
 
+![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![SQL Basics](https://img.shields.io/badge/Cisco-SQL%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Introduction to Modern AI](https://img.shields.io/badge/Cisco-Introduction%20to%20Modern%20AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Apply AI](https://img.shields.io/badge/Cisco-Apply%20AI%3A%20Analyze%20Customer%20Reviews-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
 - 🏅 Cisco Networking Academy — **Data Analytics Essentials**
+- 🏅 Cisco Networking Academy — **SQL Basics**
 - 🏅 Cisco Networking Academy — **Introduction to Modern AI**
 - 🏅 Cisco Networking Academy — **Apply AI: Analyze Customer Reviews**
-- 🏅 Cisco Networking Academy — **SQL Basics**
 
 ---
 
