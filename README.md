@@ -1,29 +1,36 @@
 <div align="center">
 
-# Mohit Hingase
+# Hi, I'm Mohit Hingase 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%26+Data+Enthusiast;Data+Analyst+%2F+Data+Scientist;MCA+Student+%7C+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Mohit+Hingase;Java+Developer;Artificial+Intelligence+Enthusiast;Aspiring+Full+Stack+Developer;Python+%26+Data+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Scientist;MCA+Student+at+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
 
-MCA Student (2025–27), MIT World Peace University, Pune &nbsp;|&nbsp; BCS Graduate
-Pune, Maharashtra, India
+🎓 MCA Student (2025–27) at MIT World Peace University, Pune &nbsp;|&nbsp; BCS Graduate
+📍 Pune, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-hingase-318a88249)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOHIT247ij)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithingase04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithingase04@gmail.com)
 
 </div>
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-I am a Master of Computer Applications (MCA) student at MIT World Peace University, Pune (2025–27), with a Bachelor's degree from Tuljaram Chaturchand College of Arts, Science & Commerce, Baramati (affiliated to SPPU). My work spans full stack development and data-driven problem solving, with a particular focus on Python, SQL, and Power BI for analytics, and Java/Spring Boot alongside React for application development.
-
-I am currently building my expertise toward Data Analyst and Data Scientist roles, while maintaining hands-on proficiency across the full stack. My areas of interest include Machine Learning, Deep Learning, and Computer Vision, supported by certifications in Data Analytics and Applied AI from Cisco Networking Academy.
+- 🎓 Completed **BCS** from Tuljaram Chaturchand College of Arts, Science & Commerce, Baramati (Affiliated to SPPU)
+- 🎓 Currently pursuing **MCA** at MIT-WPU, Pune (2025–27 batch)
+- 💻 Aspiring **Full Stack Developer** — comfortable across the stack, from Java/Spring Boot backends to React-based frontends, building and shipping end to end
+- 🐍 Strong focus on **Python** — from data analysis and automation to Machine Learning workflows
+- 📊 Also an aspiring **Data Analyst / Data Scientist**, building on SQL and Power BI to turn raw data into real business insights
+- 🤖 Deeply curious about **AI/ML, Deep Learning, and Computer Vision**, and how they're reshaping how we work with data
+- 🌱 Constantly leveling up — currently deepening my skills in Data Analytics, Data Science, and Applied AI through hands-on projects and certifications
+- 🏆 Cisco-certified across Data Analytics, Modern AI, and SQL
+- 💬 Ask me about Power BI dashboards, SQL query optimization, Java backends, or Python-based ML models
+- ⚡ Fun fact: I learn best by building — every concept I pick up turns into a project on this profile
 
 ---
 
-## Technical Skills
+## 🛠️ Skills
 
 <div align="center">
 
@@ -45,29 +52,36 @@ I am currently building my expertise toward Data Analyst and Data Scientist role
 
 </div>
 
-| Category | Skills |
-|---|---|
-| **Languages** | Java, Python, SQL, HTML, CSS |
-| **Full Stack Development** | React, Node.js/Express, Spring Boot, Hibernate, JDBC, Servlets/JSP, MongoDB, MERN Stack |
-| **Data & Analytics** | Power BI, DAX, Excel, Data Analytics, Statistics |
-| **AI / ML** | Machine Learning, Deep Learning, Computer Vision, Applied AI |
-| **Tools** | Git, GitHub |
+**Full Stack Development:** React · Node.js/Express · Spring Boot · Hibernate · JDBC · Servlets/JSP · MongoDB · MERN stack
+
+**Data & Analytics:** Power BI · DAX · Excel · Data Analytics · Statistics
+
+**AI / ML:** Machine Learning · Deep Learning · Computer Vision · Applied AI
 
 ---
 
-## Certifications
+## 📜 Certifications
+
+<div align="center">
+
+![Data Analytics Essentials](https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![SQL Basics](https://img.shields.io/badge/Cisco-SQL%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Introduction to Modern AI](https://img.shields.io/badge/Cisco-Introduction%20to%20Modern%20AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Apply AI](https://img.shields.io/badge/Cisco-Apply%20AI%3A%20Analyze%20Customer%20Reviews-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+</div>
 
 | Certification | Issuing Body |
 |---|---|
-| Data Analytics Essentials | Cisco Networking Academy |
-| SQL Basics | Cisco Networking Academy |
-| Introduction to Modern AI | Cisco Networking Academy |
-| Apply AI: Analyze Customer Reviews | Cisco Networking Academy |
+| 🏅 Data Analytics Essentials | Cisco Networking Academy |
+| 🏅 SQL Basics | Cisco Networking Academy |
+| 🏅 Introduction to Modern AI | Cisco Networking Academy |
+| 🏅 Apply AI: Analyze Customer Reviews | Cisco Networking Academy |
 
 ---
 
 <div align="center">
 
-**Mohit Hingase** &nbsp;|&nbsp; [GitHub](https://github.com/MOHIT247ij) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/mohit-hingase-318a88249) &nbsp;|&nbsp; [Email](mailto:mohithingase04@gmail.com)
+⭐️ From [MOHIT247ij](https://github.com/MOHIT247ij)
 
 </div>
