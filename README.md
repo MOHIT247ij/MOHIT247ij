@@ -1,7 +1,8 @@
 # Hi, I'm Mohit Hingase 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Python+%26+Data+Enthusiast;Aspiring+Data+Analyst+%2F+Data+Scientist;MCA+Student+at+MIT-WPU%2C+Pune)](https://git.io/typing-svg)
+
 🎓 MCA Student (2025–27) at MIT World Peace University, Pune | BCS Graduate
-📊 Aspiring **Data Analyst / Data Scientist**
 📍 Pune, Maharashtra, India
 
 ---
@@ -10,10 +11,14 @@
 
 - 🎓 Completed **BCS** from Tuljaram Chaturchand College of Arts, Science & Commerce, Baramati (Affiliated to SPPU)
 - 🎓 Currently pursuing **MCA** at MIT-WPU, Pune (2025–27 batch)
-- 🔍 Passionate about turning raw data into actionable insights using **SQL, Python, and Power BI**
-- 🤖 Exploring **AI/ML, Deep Learning, and Computer Vision**
-- 🌱 Currently sharpening my skills in Data Analytics, Data Science, and Applied AI
-- 💬 Ask me about Power BI dashboards, SQL, Java, or Python-based ML projects
+- 💻 Aspiring **Full Stack Developer** — comfortable across the stack, from Java/Spring Boot backends to React-based frontends, building and shipping end to end
+- 🐍 Strong focus on **Python** — from data analysis and automation to Machine Learning workflows
+- 📊 Also an aspiring **Data Analyst / Data Scientist**, building on SQL and Power BI to turn raw data into real business insights
+- 🤖 Deeply curious about **AI/ML, Deep Learning, and Computer Vision**, and how they're reshaping how we work with data
+- 🌱 Constantly leveling up — currently deepening my skills in Data Analytics, Data Science, and Applied AI through hands-on projects and certifications
+- 🏆 Cisco Networking Academy certified across Data Analytics, AI, and SQL
+- 💬 Ask me about Power BI dashboards, SQL query optimization, Java backends, or Python-based ML models
+- ⚡ Fun fact: I learn best by building — every concept I pick up turns into a project on this profile
 
 ---
 
@@ -21,39 +26,13 @@
 
 **Languages:** Java · Python · SQL · HTML · CSS
 
+**Full Stack Development:** React · Node.js/Express · Spring Boot · Hibernate · JDBC · Servlets/JSP · MongoDB · MERN stack
+
 **Data & Analytics:** Power BI · DAX · Excel · Data Analytics · Statistics
 
 **AI / ML:** Machine Learning · Deep Learning · Computer Vision · Applied AI
 
-**Frameworks & Tools:** Spring Boot · Hibernate · JDBC · Servlets/JSP · Git & GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 📊 [RideFlow Analytics](https://github.com/MOHIT247ij/RideFlow-Analytics)
-SQL Server star-schema + Power BI dashboard analyzing ride-booking data across Pune, Mumbai, and Bengaluru. Covers Power Query cleaning, DAX measures, and drill-through pages.
-
-### 🛒 RetailFlow Analytics
-Python ETL pipeline → SQLite star schema → Power BI dashboards, built on 5,000+ rows of synthetic Indian retail data.
-
-### 🛡️ VisionGuard
-AI-powered industrial quality and safety monitoring system combining YOLOv8 defect detection and PPE compliance monitoring. Built with FastAPI, Streamlit, Docker, and PostgreSQL.
-
-### ✈️ IntelliTrip — AI-Driven Travel Planning & Booking Platform
-MCA mini-project (2025-26). AI-generated day-wise itineraries (Gemini API), hotel/flight/cab booking, group trip cost-splitting, live weather, and multi-language support. Stack: React/Next.js, Node.js/Express, MongoDB/PostgreSQL.
-
-### 🌦️ Skycast
-Full-stack weather forecast website built with Node.js/Express, the OpenWeatherMap API, and an HTML/CSS/JS frontend.
-
-### ✈️ Airline Reservation System
-React 19 + Firebase + Tailwind + Vite. Deployed on Vercel.
-
-### 💰 AI Loan Approval System
-Python, Machine Learning, and Streamlit-based loan approval predictor. Deployed on Streamlit Cloud.
-
-### 🛍️ ShopNest E-Commerce REST API
-REST API for an e-commerce platform.
+**Tools:** Git & GitHub
 
 ---
 
